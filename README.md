@@ -8,3 +8,9 @@ Debe la carpeta "translations" ser instalada en:
 
 
 
+utilicé los archivos de las traducciones de la versión:
+
+https://github.com/mltframework/shotcut/releases/tag/v19.12.31
+
+https://github.com/mltframework/shotcut/releases/download/v19.12.31/shotcut-win32-191231.exe
+
